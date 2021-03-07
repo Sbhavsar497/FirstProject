@@ -2,7 +2,7 @@ package first;
 
 public class MyFirst {
 	public static void main(String[] args) {
-		System.out.println("Hellow");
+		System.out.println("Hi Shubh");
 	}
 	
 
